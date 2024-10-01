@@ -33,6 +33,11 @@ def display_image(image):
     plt.show()
 
 # Function to predict the class of the image
+
+
+
+
+
 predict_image(image_url):
     img = load_image_from_url(image_url, 224)
     display_image(img)
