@@ -11,4 +11,6 @@ pymysql==1.0.2
 aiofiles==0.8.0
 matplotlib==3.5.2
 platformdirs==2.5.2
+python-dotenv==0.20.0
+
 
